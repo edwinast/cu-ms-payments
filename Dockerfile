@@ -1,5 +1,5 @@
 # IMAGEN BASE
-FROM edisonpaul4/super-imagen-base:1
+FROM edwinast/super-imagen-base:1
 # INSTRUCCIONES
 WORKDIR /app
 
