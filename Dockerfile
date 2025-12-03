@@ -1,5 +1,5 @@
 # IMAGEN BASE
-FROM edwinast/super-imagen-base:1
+FROM python:3.14-alpine
 # INSTRUCCIONES
 WORKDIR /app
 
